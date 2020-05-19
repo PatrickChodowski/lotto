@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1579024445907.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1704184369",
+    "id" : "605B4033",
+    "lastKnownWriteTime" : 1579302658,
+    "last_content_update" : 1579302658487,
+    "path" : "~/Documents/abn/lotto/import_lotto.R",
+    "project_path" : "import_lotto.R",
+    "properties" : {
+        "cursorPosition" : "25,2",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

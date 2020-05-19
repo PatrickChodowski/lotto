@@ -1,0 +1,9 @@
+{
+    "path" : "~/Documents/abn/lotto",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

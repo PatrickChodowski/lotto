@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1579301935170.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "35EE7EDC",
+    "lastKnownWriteTime" : 0,
+    "last_content_update" : 1579301935170,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "41980039",
+        "caption" : "ldf",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=ldf&cache_key=41980039",
+        "displayedObservations" : 6360,
+        "environment" : "",
+        "expression" : "ldf",
+        "object" : "ldf",
+        "preview" : 0,
+        "totalObservations" : 6360,
+        "variables" : 10
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

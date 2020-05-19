@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1579302546416.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "9CF25720",
+    "lastKnownWriteTime" : 4477030652,
+    "last_content_update" : 1579302546416,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "64098E6",
+        "caption" : "aggr_df",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=aggr_df&cache_key=64098E6",
+        "displayedObservations" : 49,
+        "environment" : "",
+        "expression" : "aggr_df",
+        "object" : "aggr_df",
+        "preview" : 0,
+        "totalObservations" : 49,
+        "variables" : 4
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
